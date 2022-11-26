@@ -1,0 +1,9 @@
+git config user.name "Otavio Medeiros"
+git config user.email "prof.otavio.medeiros@gmail.com"
+
+git remote add origin https://github.com/prof-otavio-medeiros/nodejs-express.git
+git branch -M main
+git push -u origin main
+
+uuid
+
